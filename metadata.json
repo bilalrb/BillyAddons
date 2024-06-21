@@ -1,0 +1,8 @@
+{
+  "name": "BillyAddons",
+  "creator": "BilalRB",
+  "description": "pro skyblock mod",
+  "version": "1.0.0",
+  "entry": "index.js",
+  "requires": ["PogData", "RenderLibV2", "BeaconBeam", "Amaterasu"]
+}

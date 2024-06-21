@@ -1,0 +1,5 @@
+BillyAddons Assets Naming Guide:
+
+Custom Sounds (.ogg files):
+Bonzo Staff Sound: bonzostaff.ogg
+Necron Death Sound: necrondeath.ogg

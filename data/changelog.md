@@ -1,0 +1,21 @@
+## §a1.0.0
+- §aAdded: Ping finder (/ba ping)
+- §aAdded: Terminal counter overlay
+- §aAdded: Missing terminals overlay
+- §aAdded: Complete terminals overlay
+- §aAdded: Slayer sharing waypoints
+- §aAdded: Trevor the trapper warp keybind
+- §aAdded: Stop custom sounds (/ba stopsounds) 
+- §aAdded: Custom necron death sounds
+- §aAdded: Custom bonzo staff sounds
+- §aAdded: Flawless per hour tracker overlay
+- §aAdded: Health overlay
+- §aAdded: Mana overlay
+- §aAdded: Defense overlay
+- §aAdded: Hide hunger bar
+- §aAdded: Hide armor bar
+- §aAdded: Hide hearts
+- §aAdded: Gemstone tick calculator (/ba ticks [mining speed])
+- §aAdded: Ping glide helper
+- §aAdded: Etherwarp helper overlay
+- §aAdded: Mining speed boost overlay
